@@ -1,0 +1,19 @@
+FORGE
+  remote: http://forge.puppetlabs.com
+  specs:
+    evenup/hubot (0.1.2)
+      puppetlabs/nodejs (>= 0.2.0)
+      puppetlabs/stdlib (>= 3.2.0)
+    puppetlabs/apt (1.4.0)
+      puppetlabs/stdlib (>= 2.2.1)
+    puppetlabs/nodejs (0.4.0)
+      puppetlabs/apt (>= 0.0.3)
+      puppetlabs/stdlib (>= 2.0.0)
+    puppetlabs/stdlib (4.1.0)
+    stahnma/epel (0.0.6)
+
+DEPENDENCIES
+  evenup/hubot (>= 0)
+  puppetlabs/stdlib (>= 0)
+  stahnma/epel (>= 0)
+
